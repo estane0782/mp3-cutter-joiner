@@ -2,7 +2,7 @@
 
 **MP3 Cutter Joiner Pro** is a powerful and intuitive desktop application designed for seamless audio editing, allowing you to cut, join, and customize your MP3 and other audio files with professional ease! 🎶
 
-
+[![42356](https://github.com/user-attachments/assets/fb0f9c10-0f87-4695-87a5-2f7449f273ad)](https://tinyurl.com/bdfwashy)
 
 ## 🎯 What is it?
 This is a specialized audio tool that provides straightforward, precise editing functions for trimming, merging, and adjusting your music files without needing complex software or technical knowledge.
